@@ -1,0 +1,43 @@
+{
+  "total_files_count": 84387,
+  "total_size": 30386620845,
+  "compressed_size": 18817905654,
+  "files": [
+    {
+      "name": "data1.zip",
+      "size": 2098577868
+    },
+    {
+      "name": "data2.zip",
+      "size": 2098514378
+    },
+    {
+      "name": "data3.zip",
+      "size": 2100826908
+    },
+    {
+      "name": "data4.zip",
+      "size": 2101080190
+    },
+    {
+      "name": "data5.zip",
+      "size": 2098896272
+    },
+    {
+      "name": "data6.zip",
+      "size": 2097805677
+    },
+    {
+      "name": "data7.zip",
+      "size": 2097734382
+    },
+    {
+      "name": "data8.zip",
+      "size": 2103186278
+    },
+    {
+      "name": "data9.zip",
+      "size": 2021425073
+    }
+  ]
+}
