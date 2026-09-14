@@ -1,43 +1,76 @@
 {
+  "schema": 2,
   "total_files_count": 84387,
   "total_size": 30386620845,
   "compressed_size": 18817905654,
   "files": [
     {
-      "name": "data1.zip",
-      "size": 2098551429
-    },
-    {
-      "name": "data2.zip",
-      "size": 2098514378
-    },
-    {
-      "name": "data3.zip",
-      "size": 2100825257
-    },
-    {
-      "name": "data4.zip",
-      "size": 2101080190
-    },
-    {
-      "name": "data5.zip",
-      "size": 2098896272
-    },
-    {
-      "name": "data6.zip",
-      "size": 2097805677
-    },
-    {
-      "name": "data7.zip",
-      "size": 2097734382
+      "name": "data9.zip",
+      "size": 2022501386,
+      "sha256": "8aa1a7dfeeb7d8b27dd797c6cd689e364809b98ba9389de123e06308103f0c84",
+      "kind": "zip",
+      "target": null
     },
     {
       "name": "data8.zip",
-      "size": 2103186278
+      "size": 2103186278,
+      "sha256": "3a6828a49a48aebba1cddbcfa16ba7131a8bc9da4e66869f700cbf947f77677e",
+      "kind": "zip",
+      "target": null
     },
     {
-      "name": "data9.zip",
-      "size": 2021425073
+      "name": "data7.zip",
+      "size": 2097734382,
+      "sha256": "e8655729008a5fee009446b9c6a6769461dc62f6f58393a08c560da691c48f2c",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data6.zip",
+      "size": 2097805677,
+      "sha256": "aed97bfd78029eb2fb57be54ec311bb3823c9c3fa069f6c63f070808e4732770",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data5.zip",
+      "size": 2098896272,
+      "sha256": "15db057eaddcf8033a3e9f46f68c6d5ead9a086f063cf7f3672b05fc8d17b636",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data4.zip",
+      "size": 2101080190,
+      "sha256": "90d06f745f562cd106f98efa720513ff0bc52fc52c43f793c01b487ccf3d04da",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data3.zip",
+      "size": 2100826908,
+      "sha256": "ba06a9ee6f74fe60412c422b01adbf384a5bf789376429cb94980f68e042267e",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data2.zip",
+      "size": 2098514378,
+      "sha256": "6cd2b08054a1183b427621a316c3ad2c84902ee6d10afbd66004635665cc34d3",
+      "kind": "zip",
+      "target": null
+    },
+    {
+      "name": "data1.zip",
+      "size": 2098577868,
+      "sha256": "86b1c7b776182c9dd3379de11489e0c47b403b39c8cfe10a9729be743637258d",
+      "kind": "zip",
+      "target": null
     }
-  ]
+  ],
+  "exe_path": null,
+  "patch_name": null,
+  "base_patch": null,
+  "base_release_tag": null,
+  "deleted_files": []
 }
